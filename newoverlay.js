@@ -1,31 +1,20 @@
 (function(videojs) {
   'use strict';
-  videojs.addLanguage("it", {
-"Play": "Play",
-  "Pause": "Pausa",
-  "Current Time": "Orario attuale",
-  "Duration": "Durata",
-  "Remaining Time": "Tempo rimanente",
-  "Stream Type": "Tipo del Streaming",
-  "LIVE": "LIVE",
-  "Loaded": "Caricato",
-  "Progress": "Stato",
-  "Fullscreen": "Schermo intero",
-  "Non-Fullscreen": "Chiudi schermo intero",
-  "Mute": "Muto",
-  "Unmute": "Audio",
-  "Playback Rate": "Tasso di riproduzione",
-  "Subtitles": "Sottotitoli",
-  "subtitles off": "Senza sottotitoli",
-  "Captions": "Sottotitoli non udenti",
-  "captions off": "Senza sottotitoli non udenti",
-  "Chapters": "Capitolo",
-  "You aborted the media playback": "La riproduzione del filmato è stata interrotta.",
-  "A network error caused the media download to fail part-way.": "Il download del filmato è stato interrotto a causa di un problema rete.",
-  "The media could not be loaded, either because the server or network failed or because the format is not supported.": "Il filmato non può essere caricato a causa di un errore nel server o nella rete o perché il formato non viene supportato.",
-  "The media playback was aborted due to a corruption problem or because the media used features your browser did not support.": "La riproduzione del filmato è stata interrotta a causa di un file danneggiato o per l’utilizzo di impostazioni non supportate dal browser.",
-  "No compatible source was found for this media.": "Non ci sono fonti compatibili per questo filmato."
-
+  videojs.addLanguage('de', {
+  "Share": "Share",
+  "Share Video": "Share video",
+  "Share via": "Share via",
+  "Share on": "Share on",
+  "Direct Link": "Direct Link",
+  "Start From": "Start from",
+  "Embed Code": "Embed Code",
+  "Sharing Dialog": "Sharing Dialog Box",
+  "Share on {{network}}": "Share on {{network}}",
+  "The offset must be specified using the following pattern:": "The time offset must be specified as follows:",
+  "Read Only: Embed Code": "Read Only: Embed Code",
+  "Read Only": "Read Only",
+  "Direct Link To Content": "Direct link to content",
+  "Restart": "Start again"
 });
    videojs.registerPlugin('videoOverlay', function() {
       var overlayIconList = {
