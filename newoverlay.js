@@ -28,7 +28,7 @@
           blue_two: "https://content.tui.co.uk/adamtui/2020_2/10_10/1e1c95d3-67d9-4852-b349-ab5d00afbeac/blue_two.png",
           blue_family: "https://content.tui.co.uk/adamtui/2020_2/10_10/6dc1a95b-820c-435e-8ce4-ab5d00afc165/blue_family.png",
           generic: "https://content.tui.co.uk/adamtui/2020_2/10_10/ed539598-35fd-49b6-967c-ab5d00afc1e8/generic.png",
-          vip: "https://players.brightcove.net/4719076386001/studio_overlays/9kJqK0JN16-a4e896d0-55e6-47c4-952b-12bc73c09c98.png"
+          vip: "https://content.tui.co.uk/adamtui/2020_2/10_10/ed539598-35fd-49b6-967c-ab5d00afc1e8/generic.png"
       }
       var player = this,
       overlay = document.createElement('div');
