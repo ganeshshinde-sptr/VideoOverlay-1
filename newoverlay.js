@@ -28,7 +28,7 @@
           blue_two: "https://content.tui.co.uk/adamtui/2020_2/10_10/1e1c95d3-67d9-4852-b349-ab5d00afbeac/blue_two.png",
           blue_family: "https://content.tui.co.uk/adamtui/2020_2/10_10/6dc1a95b-820c-435e-8ce4-ab5d00afc165/blue_family.png",
           generic: "https://content.tui.co.uk/adamtui/2020_2/10_10/ed539598-35fd-49b6-967c-ab5d00afc1e8/generic.png",
-          vip: "https://content.tui.co.uk/adamtui/2020_2/10_10/ed539598-35fd-49b6-967c-ab5d00afc1e8/generic.png"
+          vip: "https://cdn.content.tuigroup.com/tuidamstages3/2022_6/14_7/8db0d08d-ec4b-409a-aae6-aeb4007be5ac/airtours.png"
       }
       var player = this,
       overlay = document.createElement('div');
